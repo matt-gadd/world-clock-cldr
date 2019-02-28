@@ -75,9 +75,5 @@
     "type": "git",
     "url": "git://github.com/rxaviers/cldr-data-npm.git"
   },
-  "scripts": {
-    "install": "node install.js",
-    "test": "grunt && node test/index.js"
-  },
   "version": "32.0.1"
 }
